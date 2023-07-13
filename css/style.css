@@ -1,0 +1,22 @@
+
+.slider_image {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+.slider_breadcrumbs {
+    display: flex;
+}
+
+.slider_item {
+    width: 20px;
+    height: 20px;
+    background-color: aquamarine;
+    margin: 10px;
+    text-align: center;
+}
+
+.slider_item:hover {
+    border: 1px solid black;
+}
